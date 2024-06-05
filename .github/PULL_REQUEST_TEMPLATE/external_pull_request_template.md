@@ -2,7 +2,7 @@
 Please make sure to read the Pull Request Guidelines:
 https://github.com/aws-amplify/amplify-ui/blob/main/CONTRIBUTING.md
 -->
-### Internal Contributors
+### External Contributors
 #### Description of changes
 
 <!--
